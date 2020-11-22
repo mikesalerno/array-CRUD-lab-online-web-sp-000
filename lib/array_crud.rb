@@ -1,5 +1,5 @@
 def create_an_empty_array
-  arraY.NEW[]
+  array.NEW[]
 end
 
 def create_an_array
